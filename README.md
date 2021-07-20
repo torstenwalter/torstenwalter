@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-I am a developer who loves coding as much as infrastucture. I have a passion for automation in general and love testing.
-
+I am a developer who loves coding as much as infrastucture. I have a passion for automation, testing and solving challenging tasks.
 
 
 <dl>
