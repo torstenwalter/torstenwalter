@@ -10,7 +10,6 @@ I am a developer who loves coding as much as infrastucture. I have a passion for
   <dd>
     <img height="40" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/go/go.png" alt="Go">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/java/java.png" alt="Java">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/bash/bash.png" alt="Bash">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/scala/scala.png" alt="Scala">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/perl/perl.png" alt="Perl">
   </dd>
@@ -30,7 +29,15 @@ I am a developer who loves coding as much as infrastucture. I have a passion for
     <img height="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions">
     <img height="30" src="https://azurecomcdn.azureedge.net/cvt-1973605109b4c38d76b38ca96a3c55e018607e7a6da324db3657d96813268efd/images/shared/services/devops/pipelines-icon-80.png" alt="Azure Pipelines">
     <img height="30" src="https://argoproj.github.io/argo-cd/assets/logo.png" alt="Argo CD">
+    <img height="30" src="https://www.runatlantis.io/hero.png" alt="Atlantis">
   </dd>
+  
+  <dt>Automation<dt>
+  <dd>
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/ansible/ansible.png" alt="Ansible">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/terraform/terraform.png" alt="Terraform">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/5602ee10dc97f83a3bbe860e50fe657c8f6a7ec7/topics/bash/bash.png" alt="Bash">
+  <dd>
 
   <dt>Container Orchestration<dt>
   <dd>
