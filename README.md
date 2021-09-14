@@ -23,7 +23,7 @@ I am a developer who loves coding as much as infrastucture. I have a passion for
 
   <dt>CI/CD Tools<dt>
   <dd>
-    <img height="30" src="https://wiki.jenkins.io/download/attachments/2916393/logo.png" alt="Jenkins">
+    <img height="30" src="https://get.jenkins.io/art/jenkins-logo/logo.svg" alt="Jenkins">
     <img height="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions">
     <img height="30" src="https://azurecomcdn.azureedge.net/cvt-1973605109b4c38d76b38ca96a3c55e018607e7a6da324db3657d96813268efd/images/shared/services/devops/pipelines-icon-80.png" alt="Azure Pipelines">
     <img height="30" src="https://argoproj.github.io/argo-cd/assets/logo.png" alt="Argo CD">
