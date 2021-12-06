@@ -2,6 +2,7 @@
 
 I am a developer who loves coding as much as infrastucture. I have a passion for automation, testing and solving challenging tasks.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=torstenwalter&count_private=true&show_icons=true)
 
 <dl>
   <dt>Programming Languages</dt>
